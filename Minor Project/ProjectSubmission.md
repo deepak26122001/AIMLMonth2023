@@ -1,9 +1,9 @@
-Roll Number       :   < Roll no. allotted for this internship eg - 23470 >
+Roll Number       :   < 23113 >
 
-Student Name      :   < Your good name >
+Student Name      :   < Deepak Chaudhary >
 
-Project Title     :   < Problem statement allotted to you >
+Project Title     :   < Breast Cancer prediction >
 
-Google Colab Link :   < View only link of your Google Colab Notebook >
+Google Colab Link :   < Done jupyter >
 
-Summary(Optional) :   < Brief summary of your project >
+Summary(Optional) :   < Made EDA on best of my knowledge and will continue makeing prediction model after this as i will learn the models more >
